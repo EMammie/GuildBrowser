@@ -33,4 +33,5 @@
 
 @property (nonatomic, weak) IBOutlet UIImageView *characterProfileImage;
 
+
 @end
